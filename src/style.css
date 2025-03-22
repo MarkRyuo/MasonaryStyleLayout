@@ -4,19 +4,19 @@ header {
   border: 1px solid red;
   height: 80px;
   padding-top: var(--space-sm);
-  position: relative;
-  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 nav {
   max-width: var(--w-max-lg); /*? 1500px */
-  margin: var(--m-auto);
   display: grid;
   grid-template-columns: repeat(5, 1fr);
+  width: 100%;
   text-align: center;
   align-items: center;
   position: fixed;
-  top: 0;
+  z-index: 20;
 }
 
 nav a {

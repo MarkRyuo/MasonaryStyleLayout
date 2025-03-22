@@ -4,6 +4,8 @@ header {
   /* border: 1px solid red; */
   height: 80px;
   padding-top: var(--space-sm);
+  position: relative;
+  width: 100%;
 }
 
 nav {
@@ -13,6 +15,8 @@ nav {
   grid-template-columns: repeat(5, 1fr);
   text-align: center;
   align-items: center;
+  position: fixed;
+  top: 0;
 }
 
 nav a {

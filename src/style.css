@@ -6,5 +6,5 @@ header {
 }
 
 nav {
-  max-width: var(--w-max-lg);
+  max-width: var(--w-max-lg); /*? 1500px */
 }

@@ -6,7 +6,6 @@ header {
   padding-top: var(--space-sm);
   display: flex;
   justify-content: center;
-  background-color: #ffff;
 }
 
 nav {

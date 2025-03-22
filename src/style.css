@@ -7,4 +7,18 @@ header {
 
 nav {
   max-width: var(--w-max-lg); /*? 1500px */
+  margin: var(--m-auto);
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  text-align: center;
+  align-items: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--clr-text);
+}
+
+nav h1 div:first-child {
+  letter-spacing: var(--space-xs);
 }

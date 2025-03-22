@@ -35,4 +35,6 @@ main {
   max-width: var(--w-max-lg);
   margin: var(--m-auto);
   margin-top: 10px;
+  gap: var(--space-xl);
+  align-items: center;
 }

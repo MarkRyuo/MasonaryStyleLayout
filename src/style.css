@@ -1,7 +1,7 @@
 
 
 header {
-  /* border: 1px solid red; */
+  border: 1px solid red;
   height: 80px;
   padding-top: var(--space-sm);
   position: relative;

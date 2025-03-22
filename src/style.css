@@ -6,5 +6,5 @@ header {
 }
 
 nav {
-  max-width: var();
+  max-width: var(--w-max-lg);
 }

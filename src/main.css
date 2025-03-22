@@ -33,6 +33,7 @@
 
 body, html {
   font-family: var(--ff);
+  background-color: var(--clr-primary);
 }
 
 img {

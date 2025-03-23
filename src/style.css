@@ -39,3 +39,7 @@ main {
   gap: var(--space-xl);
   align-items: center;
 }
+
+main img {
+  overflow: hidden;
+}

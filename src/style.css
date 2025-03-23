@@ -49,3 +49,7 @@ main div {
 main .tall {
   grid-row: span 2;
 }
+
+main .small {
+  grid-row: span 1;
+}

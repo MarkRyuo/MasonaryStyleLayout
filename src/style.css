@@ -45,3 +45,7 @@ main div {
   height: 100%;
   overflow: hidden;
 }
+
+main .tall {
+  grid-row: span 2;
+}

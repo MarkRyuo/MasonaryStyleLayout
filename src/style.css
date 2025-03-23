@@ -40,7 +40,6 @@ main {
   align-items: center;
 }
 
-main img {
+main div {
   overflow: hidden;
-  min-width: 100%;
 }
